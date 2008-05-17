@@ -9,10 +9,10 @@
 define('_MI_POLLS_DIRNAME',"xicpoll"); // warning, name of directory for install module.
 
 // The name of this module
-define('_MI_POLLS_NAME',"Votações");
+define('_MI_POLLS_NAME',"VotaÃ§Ãµes");
 
 // A brief description of this module
-define('_MI_POLLS_DESC',"Exibe bloco de Enquete/Votação");
+define('_MI_POLLS_DESC',"Exibe bloco de Enquete/VotaÃ§Ã£o");
 
 // A Brief description of Extra Blocks. GibaPhp
 define('_MI_POLLS_BDESC_02',"02-Bloco de Enquete");
@@ -21,25 +21,25 @@ define('_MI_POLLS_BDESC_04',"04-Bloco de Enquete");
 
 
 // Names of blocks for this module (Not all module has blocks)
-define('_MI_POLLS_BNAME1',"Votação");
+define('_MI_POLLS_BNAME1',"VotaÃ§Ã£o");
 
 // Extra blocks - GibaPhp
-define('_MI_POLLS_BNAME_02',"Votação bloco 02");
-define('_MI_POLLS_BNAME_03',"Votação bloco 03");
-define('_MI_POLLS_BNAME_04',"Votação bloco 04");
+define('_MI_POLLS_BNAME_02',"VotaÃ§Ã£o bloco 02");
+define('_MI_POLLS_BNAME_03',"VotaÃ§Ã£o bloco 03");
+define('_MI_POLLS_BNAME_04',"VotaÃ§Ã£o bloco 04");
 
 // Names of admin menu items
-define('_MI_POLLS_ADMENU1',"Listar Votações");
-define('_MI_POLLS_ADMENU2',"Incluir votação");
+define('_MI_POLLS_ADMENU1',"Listar VotaÃ§Ãµes");
+define('_MI_POLLS_ADMENU2',"Incluir votaÃ§Ã£o");
 
 // Module properties - wellwine
-define('_MI_POLLS_LOOKUPHOST',"Mostrar hostname de acesso do endereço IP");
-define('_MI_POLLS_LOOKUPHOSTDESC',"Lista o nome do host e endereço IP durante a visualização do log da enquete. Since nslookup is used, isto poderá gerar um retardo grande para mostrar os nomes.");
+define('_MI_POLLS_LOOKUPHOST',"Mostrar hostname de acesso do endereÃ§o IP");
+define('_MI_POLLS_LOOKUPHOSTDESC',"Lista o nome do host e endereÃ§o IP durante a visualizaÃ§Ã£o do log da enquete. Since nslookup is used, isto poderÃ¡ gerar um retardo grande para mostrar os nomes.");
 
 //Module properties - Nazar
 define("_MI_POLL_LIMITBYIP","Restrict voting from the same IP");
 define("_MI_POLL_LIMITBYIPD","Restringe o voto que porventura venha do mesmo IP. Cuidado quando usar em intranets.");
 define("_MI_POLL_LIMITBYUID","Restricting voting from the same User");
-define("_MI_POLL_LIMITBYUIDD","Restringe o voto realizado pelo mesmo usuário.");
+define("_MI_POLL_LIMITBYUIDD","Restringe o voto realizado pelo mesmo usuÃ¡rio.");
 
 ?>

@@ -1,8 +1,8 @@
-Ol·! {X_UNAME},
+Ol√°! {X_UNAME},
 
-Sua votaÁ„o "{POLL_QUESTION}" expirou.
+Sua vota√ß√£o "{POLL_QUESTION}" expirou.
 
-InÌcio: {POLL_START}
+In√≠cio: {POLL_START}
 Fim: {POLL_END}
 Votantes: {POLL_VOTERS}
 Votos: {POLL_VOTES}
