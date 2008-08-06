@@ -26,13 +26,13 @@
 //  ------------------------------------------------------------------------ //
 
 $modversion['name'] = _MI_POLLS_NAME;
-$modversion['version'] = 1.30;
+$modversion['version'] = 1.31;
 $modversion['description'] = _MI_POLLS_DESC;
 $modversion['author'] = "GibaPhp";
 $modversion['author_website_name'] = "";
-$modversion['author_email'] = "gibaphp.xoopstotal@gmail.com";
-$modversion['status_version'] = "1.30";
-$modversion['status'] = "ALFA 1";
+$modversion['author_email'] = "gibaphp@impresscms.org";
+$modversion['status_version'] = "1.31";
+$modversion['status'] = "RC 1";
 $modversion['credits'] = "Code base in Original Mod XoopsPoll by Kazumi Ono";
 $modversion['help'] = "xicpoll.html";
 $modversion['license'] = "GNU General Public License (GPL) see LICENSE";
